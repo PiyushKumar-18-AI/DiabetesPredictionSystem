@@ -19,3 +19,7 @@ Download "Pima Indians Diabetes Database" from https://www.kaggle.com/uciml/pima
 *	Then Change the paths mentioned in the code file according to your pc and then in the terminal write "python manage.py runserver”.
 ## Conclusion
 After using the Logistic Regression method to train/test the dataset the accuracy of the model is around 80%.
+
+You can refer to check the prototype and working of this webapp on our Youtube Channel. 
+
+Link for the Video - https://youtu.be/r9xSVMsz-fA 
